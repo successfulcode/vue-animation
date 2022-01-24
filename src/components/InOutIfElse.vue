@@ -6,7 +6,7 @@
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iste, ratione.
       </div>
       <div v-else>
-        Else
+        Lorem, ipsum dolor.
       </div>
     </transition>
   </div>
